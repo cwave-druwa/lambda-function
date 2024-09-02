@@ -1,3 +1,5 @@
+## 담당자 우정인
+
 import boto3
 import os
 
